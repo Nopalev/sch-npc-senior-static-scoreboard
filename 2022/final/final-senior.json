@@ -1,0 +1,1049 @@
+{
+    "data": {
+        "type": "OFFICIAL",
+        "style": "ICPC",
+        "totalEntries": 20,
+        "updatedTime": 1665892825782,
+        "scoreboard": {
+            "content": {
+                "entries": [
+                    {
+                        "contestantUsername": "stack.py",
+                        "contestantRating": 0,
+                        "totalAccepted": 10,
+                        "totalPenalties": 563,
+                        "lastAcceptedPenalty": 7584522,
+                        "attemptsList": [
+                            2,
+                            1,
+                            1,
+                            1,
+                            1,
+                            2,
+                            2,
+                            2,
+                            1,
+                            1
+                        ],
+                        "penaltyList": [
+                            127,
+                            13,
+                            67,
+                            25,
+                            48,
+                            46,
+                            50,
+                            80,
+                            20,
+                            7
+                        ],
+                        "problemStateList": [
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1,
+                            1
+                        ],
+                        "rank": 1,
+                        "contestantJid": "JIDUSERDmsVYRyly1PsQTksj3wv"
+                    },
+                    {
+                        "contestantUsername": "\"skill issue\"",
+                        "contestantRating": 0,
+                        "totalAccepted": 9,
+                        "totalPenalties": 887,
+                        "lastAcceptedPenalty": 10321186,
+                        "attemptsList": [
+                            5,
+                            3,
+                            1,
+                            1,
+                            1,
+                            2,
+                            3,
+                            0,
+                            1,
+                            1
+                        ],
+                        "penaltyList": [
+                            173,
+                            39,
+                            124,
+                            49,
+                            26,
+                            82,
+                            169,
+                            0,
+                            29,
+                            16
+                        ],
+                        "problemStateList": [
+                            1,
+                            1,
+                            1,
+                            1,
+                            2,
+                            1,
+                            1,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 2,
+                        "contestantJid": "JIDUSERZ4mlmFdbp0dZoRlbBx1Q"
+                    },
+                    {
+                        "contestantUsername": "Jangan Salah Baca Soal Lagi",
+                        "contestantRating": 0,
+                        "totalAccepted": 9,
+                        "totalPenalties": 944,
+                        "lastAcceptedPenalty": 10468710,
+                        "attemptsList": [
+                            3,
+                            2,
+                            1,
+                            1,
+                            3,
+                            1,
+                            2,
+                            4,
+                            3,
+                            1
+                        ],
+                        "penaltyList": [
+                            175,
+                            35,
+                            160,
+                            28,
+                            91,
+                            151,
+                            85,
+                            0,
+                            45,
+                            14
+                        ],
+                        "problemStateList": [
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 3,
+                        "contestantJid": "JIDUSERRgsvPX1ww3mJ5tEMzZ4g"
+                    },
+                    {
+                        "contestantUsername": "pekorandomsolution",
+                        "contestantRating": 0,
+                        "totalAccepted": 8,
+                        "totalPenalties": 554,
+                        "lastAcceptedPenalty": 7643236,
+                        "attemptsList": [
+                            4,
+                            1,
+                            1,
+                            1,
+                            1,
+                            6,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "penaltyList": [
+                            0,
+                            16,
+                            104,
+                            23,
+                            46,
+                            128,
+                            51,
+                            0,
+                            35,
+                            11
+                        ],
+                        "problemStateList": [
+                            0,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 4,
+                        "contestantJid": "JIDUSERAJgaPASlxl524SMqoRcQ"
+                    },
+                    {
+                        "contestantUsername": "ALways WYN",
+                        "contestantRating": 0,
+                        "totalAccepted": 8,
+                        "totalPenalties": 557,
+                        "lastAcceptedPenalty": 8640818,
+                        "attemptsList": [
+                            1,
+                            1,
+                            2,
+                            1,
+                            2,
+                            6,
+                            2,
+                            10,
+                            1,
+                            1
+                        ],
+                        "penaltyList": [
+                            0,
+                            40,
+                            74,
+                            22,
+                            54,
+                            145,
+                            41,
+                            0,
+                            16,
+                            5
+                        ],
+                        "problemStateList": [
+                            0,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            2,
+                            0,
+                            2,
+                            2
+                        ],
+                        "rank": 5,
+                        "contestantJid": "JIDUSERBRCzCVl0zmLTBnrHieKm"
+                    },
+                    {
+                        "contestantUsername": "@Vector gimana?",
+                        "contestantRating": 0,
+                        "totalAccepted": 8,
+                        "totalPenalties": 627,
+                        "lastAcceptedPenalty": 10232980,
+                        "attemptsList": [
+                            1,
+                            1,
+                            0,
+                            1,
+                            3,
+                            1,
+                            2,
+                            1,
+                            2,
+                            1
+                        ],
+                        "penaltyList": [
+                            171,
+                            33,
+                            0,
+                            26,
+                            52,
+                            131,
+                            97,
+                            0,
+                            25,
+                            12
+                        ],
+                        "problemStateList": [
+                            1,
+                            1,
+                            0,
+                            1,
+                            1,
+                            1,
+                            1,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 6,
+                        "contestantJid": "JIDUSERUHitTr02ClAdBVSexl1J"
+                    },
+                    {
+                        "contestantUsername": "Kotlin Enjoyers",
+                        "contestantRating": 0,
+                        "totalAccepted": 8,
+                        "totalPenalties": 752,
+                        "lastAcceptedPenalty": 10084209,
+                        "attemptsList": [
+                            2,
+                            2,
+                            3,
+                            1,
+                            2,
+                            5,
+                            5,
+                            1,
+                            2,
+                            2
+                        ],
+                        "penaltyList": [
+                            0,
+                            15,
+                            169,
+                            15,
+                            49,
+                            126,
+                            49,
+                            0,
+                            33,
+                            16
+                        ],
+                        "problemStateList": [
+                            0,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 7,
+                        "contestantJid": "JIDUSERgWjYmP7vbUSuNSiSkjYV"
+                    },
+                    {
+                        "contestantUsername": "Serializability",
+                        "contestantRating": 0,
+                        "totalAccepted": 8,
+                        "totalPenalties": 944,
+                        "lastAcceptedPenalty": 10462927,
+                        "attemptsList": [
+                            0,
+                            3,
+                            1,
+                            1,
+                            2,
+                            6,
+                            2,
+                            3,
+                            1,
+                            1
+                        ],
+                        "penaltyList": [
+                            0,
+                            163,
+                            140,
+                            35,
+                            113,
+                            175,
+                            65,
+                            0,
+                            45,
+                            28
+                        ],
+                        "problemStateList": [
+                            0,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            1,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 8,
+                        "contestantJid": "JIDUSER3JeFbHN2VHREOlYIHX9s"
+                    },
+                    {
+                        "contestantUsername": "mixedpeanuts",
+                        "contestantRating": 0,
+                        "totalAccepted": 6,
+                        "totalPenalties": 377,
+                        "lastAcceptedPenalty": 7169859,
+                        "attemptsList": [
+                            0,
+                            2,
+                            0,
+                            1,
+                            2,
+                            0,
+                            1,
+                            3,
+                            1,
+                            1
+                        ],
+                        "penaltyList": [
+                            0,
+                            29,
+                            0,
+                            15,
+                            94,
+                            0,
+                            120,
+                            0,
+                            56,
+                            23
+                        ],
+                        "problemStateList": [
+                            0,
+                            1,
+                            0,
+                            2,
+                            1,
+                            0,
+                            1,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 9,
+                        "contestantJid": "JIDUSERCzmtMwCqFodbwmVSMLLa"
+                    },
+                    {
+                        "contestantUsername": "sudad",
+                        "contestantRating": 0,
+                        "totalAccepted": 6,
+                        "totalPenalties": 448,
+                        "lastAcceptedPenalty": 7891880,
+                        "attemptsList": [
+                            3,
+                            2,
+                            0,
+                            1,
+                            10,
+                            6,
+                            3,
+                            1,
+                            1,
+                            1
+                        ],
+                        "penaltyList": [
+                            132,
+                            77,
+                            0,
+                            45,
+                            0,
+                            0,
+                            59,
+                            0,
+                            18,
+                            17
+                        ],
+                        "problemStateList": [
+                            1,
+                            1,
+                            0,
+                            1,
+                            0,
+                            0,
+                            1,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 10,
+                        "contestantJid": "JIDUSERQOIdcwyIiPBY7QMh2bqL"
+                    },
+                    {
+                        "contestantUsername": "Writing Morbillion Lines of Code",
+                        "contestantRating": 0,
+                        "totalAccepted": 5,
+                        "totalPenalties": 454,
+                        "lastAcceptedPenalty": 10609625,
+                        "attemptsList": [
+                            1,
+                            1,
+                            0,
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            2
+                        ],
+                        "penaltyList": [
+                            105,
+                            177,
+                            0,
+                            57,
+                            0,
+                            0,
+                            0,
+                            0,
+                            71,
+                            24
+                        ],
+                        "problemStateList": [
+                            2,
+                            1,
+                            0,
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 11,
+                        "contestantJid": "JIDUSERmxEW1CI87Lbrh9rrUO6j"
+                    },
+                    {
+                        "contestantUsername": "Menggokil",
+                        "contestantRating": 0,
+                        "totalAccepted": 5,
+                        "totalPenalties": 692,
+                        "lastAcceptedPenalty": 10093129,
+                        "attemptsList": [
+                            0,
+                            4,
+                            0,
+                            6,
+                            5,
+                            0,
+                            0,
+                            0,
+                            1,
+                            1
+                        ],
+                        "penaltyList": [
+                            0,
+                            141,
+                            0,
+                            108,
+                            169,
+                            0,
+                            0,
+                            0,
+                            20,
+                            14
+                        ],
+                        "problemStateList": [
+                            0,
+                            1,
+                            0,
+                            1,
+                            1,
+                            0,
+                            0,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 12,
+                        "contestantJid": "JIDUSEREWbbwVmeAMdxLbNhbr8X"
+                    },
+                    {
+                        "contestantUsername": "Ga ada ide nama tim :v",
+                        "contestantRating": 0,
+                        "totalAccepted": 4,
+                        "totalPenalties": 217,
+                        "lastAcceptedPenalty": 5809593,
+                        "attemptsList": [
+                            0,
+                            1,
+                            0,
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            1
+                        ],
+                        "penaltyList": [
+                            0,
+                            97,
+                            0,
+                            52,
+                            0,
+                            0,
+                            0,
+                            0,
+                            26,
+                            42
+                        ],
+                        "problemStateList": [
+                            0,
+                            1,
+                            0,
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 13,
+                        "contestantJid": "JIDUSERRh7xRIPpDYkFlR4O41SR"
+                    },
+                    {
+                        "contestantUsername": "Melon Musk",
+                        "contestantRating": 0,
+                        "totalAccepted": 4,
+                        "totalPenalties": 386,
+                        "lastAcceptedPenalty": 7150833,
+                        "attemptsList": [
+                            0,
+                            3,
+                            0,
+                            1,
+                            5,
+                            0,
+                            0,
+                            1,
+                            3,
+                            1
+                        ],
+                        "penaltyList": [
+                            0,
+                            120,
+                            0,
+                            86,
+                            0,
+                            0,
+                            0,
+                            0,
+                            77,
+                            23
+                        ],
+                        "problemStateList": [
+                            0,
+                            1,
+                            0,
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 14,
+                        "contestantJid": "JIDUSERpMigyjqqIHLQF4lNuXo4"
+                    },
+                    {
+                        "contestantUsername": "mantra hujan",
+                        "contestantRating": 0,
+                        "totalAccepted": 3,
+                        "totalPenalties": 195,
+                        "lastAcceptedPenalty": 6749980,
+                        "attemptsList": [
+                            0,
+                            0,
+                            0,
+                            1,
+                            2,
+                            0,
+                            0,
+                            0,
+                            1,
+                            1
+                        ],
+                        "penaltyList": [
+                            0,
+                            0,
+                            0,
+                            113,
+                            0,
+                            0,
+                            0,
+                            0,
+                            64,
+                            18
+                        ],
+                        "problemStateList": [
+                            0,
+                            0,
+                            0,
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 15,
+                        "contestantJid": "JIDUSERbNNdxTdGMraxHnKmVzPR"
+                    },
+                    {
+                        "contestantUsername": "ketagihan cp",
+                        "contestantRating": 0,
+                        "totalAccepted": 3,
+                        "totalPenalties": 212,
+                        "lastAcceptedPenalty": 5134865,
+                        "attemptsList": [
+                            0,
+                            0,
+                            0,
+                            1,
+                            0,
+                            0,
+                            1,
+                            4,
+                            2,
+                            2
+                        ],
+                        "penaltyList": [
+                            0,
+                            0,
+                            0,
+                            86,
+                            0,
+                            0,
+                            0,
+                            0,
+                            58,
+                            28
+                        ],
+                        "problemStateList": [
+                            0,
+                            0,
+                            0,
+                            1,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1,
+                            1
+                        ],
+                        "rank": 16,
+                        "contestantJid": "JIDUSERLAAdiHw0iORfMu5mRPHr"
+                    },
+                    {
+                        "contestantUsername": "Forbidden 403",
+                        "contestantRating": 0,
+                        "totalAccepted": 0,
+                        "totalPenalties": 0,
+                        "lastAcceptedPenalty": 0,
+                        "attemptsList": [
+                            0,
+                            0,
+                            0,
+                            18,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "penaltyList": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "problemStateList": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "rank": 17,
+                        "contestantJid": "JIDUSER98eXZnTC2Cry5pQql9M9"
+                    },
+                    {
+                        "contestantUsername": "Expecto Patronum",
+                        "contestantRating": 0,
+                        "totalAccepted": 0,
+                        "totalPenalties": 0,
+                        "lastAcceptedPenalty": 0,
+                        "attemptsList": [
+                            0,
+                            0,
+                            0,
+                            9,
+                            0,
+                            0,
+                            1,
+                            0,
+                            1,
+                            6
+                        ],
+                        "penaltyList": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "problemStateList": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "rank": 17,
+                        "contestantJid": "JIDUSERoG1V7dIa9JFL8ZqJKgD4"
+                    },
+                    {
+                        "contestantUsername": "PernolepanSurgawi",
+                        "contestantRating": 0,
+                        "totalAccepted": 0,
+                        "totalPenalties": 0,
+                        "lastAcceptedPenalty": 0,
+                        "attemptsList": [
+                            0,
+                            0,
+                            0,
+                            6,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            1
+                        ],
+                        "penaltyList": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "problemStateList": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "rank": 17,
+                        "contestantJid": "JIDUSERjI5LudaHFWkrZIG1byV8"
+                    },
+                    {
+                        "contestantUsername": "No Name",
+                        "contestantRating": 0,
+                        "totalAccepted": 0,
+                        "totalPenalties": 0,
+                        "lastAcceptedPenalty": 0,
+                        "attemptsList": [
+                            0,
+                            0,
+                            0,
+                            2,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            2
+                        ],
+                        "penaltyList": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "problemStateList": [
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0,
+                            0
+                        ],
+                        "rank": 17,
+                        "contestantJid": "JIDUSERAbIkJPO10ROfP8TuB0H8"
+                    }
+                ]
+            },
+            "state": {
+                "problemJids": [
+                    "JIDPROG7etiiZ2imm2nr83FiKmI",
+                    "JIDPROG7VZC1wpaFEF80MNMYcgO",
+                    "JIDPROGZWAM7kDf2xfDQwuiTkwH",
+                    "JIDPROG2E3f3MzS9TfcCZ1HesRP",
+                    "JIDPROGulpuUObc8IKUHCSjIajg",
+                    "JIDPROGH6p1htK3DUNIKB7yWXCE",
+                    "JIDPROGPD8HhvQLzJbbExyCcQ1Z",
+                    "JIDPROGHZh6EnelFUDxo12lZ10e",
+                    "JIDPROGQibY882wLvl5065oHvK3",
+                    "JIDPROGdtloRwc4akmIAPZV9Vsd"
+                ],
+                "problemAliases": [
+                    "A",
+                    "B",
+                    "C",
+                    "D",
+                    "E",
+                    "F",
+                    "G",
+                    "H",
+                    "I",
+                    "J"
+                ],
+                "problemPoints": null
+            }
+        }
+    },
+    "profilesMap": {
+        "JIDUSERBRCzCVl0zmLTBnrHieKm": {
+            "username": "ALways WYN",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERRgsvPX1ww3mJ5tEMzZ4g": {
+            "username": "Jangan Salah Baca Soal Lagi",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSER98eXZnTC2Cry5pQql9M9": {
+            "username": "Forbidden 403",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERAJgaPASlxl524SMqoRcQ": {
+            "username": "pekorandomsolution",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERLAAdiHw0iORfMu5mRPHr": {
+            "username": "ketagihan cp",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERjI5LudaHFWkrZIG1byV8": {
+            "username": "PernolepanSurgawi",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERpMigyjqqIHLQF4lNuXo4": {
+            "username": "Melon Musk",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERbNNdxTdGMraxHnKmVzPR": {
+            "username": "mantra hujan",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERAbIkJPO10ROfP8TuB0H8": {
+            "username": "No Name",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERZ4mlmFdbp0dZoRlbBx1Q": {
+            "username": "\"skill issue\"",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERUHitTr02ClAdBVSexl1J": {
+            "username": "@Vector gimana?",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERoG1V7dIa9JFL8ZqJKgD4": {
+            "username": "Expecto Patronum",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSEREWbbwVmeAMdxLbNhbr8X": {
+            "username": "Menggokil",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERQOIdcwyIiPBY7QMh2bqL": {
+            "username": "sudad",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERgWjYmP7vbUSuNSiSkjYV": {
+            "username": "Kotlin Enjoyers",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERDmsVYRyly1PsQTksj3wv": {
+            "username": "stack.py",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERRh7xRIPpDYkFlR4O41SR": {
+            "username": "Ga ada ide nama tim :v",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERmxEW1CI87Lbrh9rrUO6j": {
+            "username": "Writing Morbillion Lines of Code",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSERCzmtMwCqFodbwmVSMLLa": {
+            "username": "mixedpeanuts",
+            "country": "ID",
+            "rating": null
+        },
+        "JIDUSER3JeFbHN2VHREOlYIHX9s": {
+            "username": "Serializability",
+            "country": "ID",
+            "rating": null
+        }
+    },
+    "config": {
+        "canViewOfficialAndFrozen": true,
+        "canViewClosedProblems": false,
+        "canRefresh": true,
+        "canViewSubmissions": false
+    }
+}
